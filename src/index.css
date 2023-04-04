@@ -33,3 +33,7 @@ h1 {
 nav {
   font-weight: 500;
 }
+
+.Toastify__toast--success {
+  width: 400px;
+}
